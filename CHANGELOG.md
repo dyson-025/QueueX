@@ -6,7 +6,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [Unreleased]
+# [Released]
 
 ## Added
 
@@ -20,7 +20,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.1.0-alpha] - Planned
+# [v0.1.0-alpha] - Planned
 
 ## Added
 
@@ -39,7 +39,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.2.0-alpha] - Planned
+# [v0.2.0-alpha] - Planned
 
 ## Added
 
@@ -55,7 +55,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.3.0-alpha] - Planned
+# [v0.3.0-alpha] - Planned
 
 ## Added
 
@@ -73,7 +73,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.4.0-alpha] - Planned
+# [v0.4.0-alpha] - Planned
 
 ## Added
 
@@ -89,7 +89,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.5.0-beta] - Planned
+# [v0.5.0-beta] - Planned
 
 ## Added
 
@@ -104,7 +104,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.6.0-beta] - Planned
+# [v0.6.0-beta] - Planned
 
 ## Added
 
@@ -118,7 +118,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.7.0-beta] - Planned
+# [v0.7.0-beta] - Planned
 
 ## Added
 
@@ -132,7 +132,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.8.0-beta] - Planned
+# [v0.8.0-beta] - Planned
 
 ## Added
 
@@ -145,7 +145,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [0.9.0-rc1] - Planned
+# [v0.9.0-rc1] - Planned
 
 ## Added
 
@@ -160,7 +160,7 @@ The project follows **Semantic Versioning (SemVer)**.
 
 ---
 
-# [1.0.0] - Planned
+# [v1.0.0] - Planned
 
 ## Added
 
